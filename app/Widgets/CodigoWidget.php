@@ -56,7 +56,8 @@ class CodigoWidget
         }
 
         // Caso exista condição, verifica se atende
-        if ((! is_null($this->condition)) && (! $this->condition($codigo))) {
+        $condition = $this->condition;
+        if ((! is_null($condition)) && (! $condition($codigo))) {
             $codigo = $this->generate();
         }
 
