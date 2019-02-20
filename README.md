@@ -3,6 +3,7 @@
 ## O que já tem
 
 - [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder (classes e arquivos relacionados).
+- [Escolaridade](doc/Escolaridade.md) - Models, Migrations e Seeder.
 
 ## Como contribuir
 Além dos procedimentos básicos de boas práticas de contribuição em projetos:
