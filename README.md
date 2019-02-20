@@ -2,7 +2,7 @@
 
 ## O que já tem
 
-- [Municípios e Unidades Federais](repo/blob/master/doc/MunicipiosUfs.md) - Models, Migrations e Seeder (classes e arquivos relacionados).
+- [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder (classes e arquivos relacionados).
 
 ## Como contribuir
 Além dos procedimentos básicos de boas práticas de contribuição em projetos:
