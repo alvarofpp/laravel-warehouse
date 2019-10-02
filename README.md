@@ -4,6 +4,7 @@
 
 - [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder (classes e arquivos relacionados).
 - [Escolaridade](doc/Escolaridade.md) - Models, Migrations e Seeder.
+- [Models já configurados do pacote Entrust](doc/Entrust.md) - Models
 
 ## Como contribuir
 Além dos procedimentos básicos de boas práticas de contribuição em projetos:
