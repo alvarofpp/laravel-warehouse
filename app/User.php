@@ -78,4 +78,13 @@ class User extends Authenticatable
     {
         return $this->papel->general_slug == $roleGeneralSlug;
     }
+
+    /**
+     * Relacionamento para quem utiliza a biblioteca Entrust
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsToMany
+     */
+    public function roles()
+    {
+        return $this->belongsToMany(Role::class,'role_user', 'user_id', 'role_id');
+    }
 }
