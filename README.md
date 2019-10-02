@@ -1,4 +1,5 @@
 # Laravel Deposit
+Esse repositório possui a finalidade de ser um depósito de códigos para projetos em Laravel.
 
 ## O que já tem
 
