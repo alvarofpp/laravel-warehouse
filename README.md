@@ -5,6 +5,7 @@ Esse repositório possui a finalidade de ser um depósito de códigos para proje
 
 - [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder (classes e arquivos relacionados).
 - [Escolaridade](doc/Escolaridade.md) - Models, Migrations e Seeder.
+- [Breadcrumbs dinâmicos](doc/Breadcrumbs.md) - Blade.
 
 ## Como contribuir
 Além dos procedimentos básicos de boas práticas de contribuição em projetos:
