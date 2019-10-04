@@ -1,5 +1,5 @@
 # Models configurados para biblioteca Entrust
-Para quem utiliza o pacote [Entrust](https://github.com/Zizaco/entrust) para gerenciar os perfis e permissões dos usuários 
+Para quem utiliza o pacote [Entrust](https://github.com/Zizaco/entrust) v1.9.1 (e versões anteriores) para gerenciar os perfis e permissões dos usuários 
 no sistema foi adicionado os models da biblioteca já com os relacionamentos. 
 
 `app/Models/Permission.php` <br>
