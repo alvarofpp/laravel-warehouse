@@ -8,12 +8,12 @@ Para realizar a criação dinâmica de breadcrumbs para as blades basta incluir
 Exemplo de utilização:
 
 ```php
-    @include('caminho.breadcrumbs', [
-        'items' => [
-            'Home' => route('home'),
-            'About' => route('about'),
-        ]
-    ])
+@include('caminho.breadcrumbs', [
+    'items' => [
+        'Home' => route('home'),
+        'About' => route('about'),
+    ]
+])
 ```
 
 ## Arquivos
