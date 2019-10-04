@@ -3,7 +3,7 @@ Esse repositório possui a finalidade de ser um depósito de códigos para proje
 
 ## O que já tem
 
-- [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder (classes e arquivos relacionados).
+- [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder.
 - [Escolaridade](doc/Escolaridade.md) - Models, Migrations e Seeder.
 - [Models já configurados do pacote Entrust](doc/Entrust.md) - Models.
 - [Breadcrumbs dinâmicos](doc/Breadcrumbs.md) - Blade.

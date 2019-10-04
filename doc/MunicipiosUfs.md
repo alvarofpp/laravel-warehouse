@@ -1,5 +1,5 @@
 # Municípios e Unidades Federais
-Models, Migrations e Seeder (classes e arquivos relacionados).
+Models, Migrations e Seeder.
 
 - No arquivo `storage/app/seed/municipios.csv` existe um total de 5570 municípios registrados, o delimitador é `,`. Os campos são:
   - Código do IBGE do município;
