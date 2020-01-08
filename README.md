@@ -1,16 +1,17 @@
-# Laravel Deposit
-Esse repositório possui a finalidade de ser um depósito de códigos para projetos em Laravel.
+# Laravel Warehouse
+This repository is a code warehouse for projects in Laravel, but can be used in projects in pure PHP.
 
-## O que já tem
+## What already has
 
-- [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder.
-- [Escolaridade](doc/Escolaridade.md) - Models, Migrations e Seeder.
-- [Models já configurados do pacote Entrust](doc/Entrust.md) - Models.
-- [Breadcrumbs dinâmicos](doc/Breadcrumbs.md) - Blade.
+- [Brazil school levels](warehouse/br_school_levels/).
+- [Cities and federal states of Brazil](warehouse/cities_federal_states_br/).
+- [Dynamic breadcrumbs](warehouse/dynamic_breadcrumbs/).
+- [Entrust models](warehouse/entrust_models/).
 
-
-## Como contribuir
+## How to contribute
 Além dos procedimentos básicos de boas práticas de contribuição em projetos:
+
+1. Crie uma pasta
 
 1. Além das mudanças (arquivos inseridos, correções, etc):
   1. Crie um arquivo Markdown na pasta `doc` e nele liste quais arquivos/métodos estão relacionados a sua mudança;
