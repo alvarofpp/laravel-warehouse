@@ -5,4 +5,4 @@ In addition to the basic procedures for good practices of contribution in projec
 1. In the your folder, create a `README.md` with the title, description and some details of the your contribution.
 1. Update the lists in [`README.md`](../README.md) and [`../warehouse/README.md`](warehouse/README.md).
 
-You can pick up as an example the folder [`example`](../example/) or the contributions existing in this repository.
+You can pick up as an example the folder [`example/`](../example/) or the contributions existing in this repository.
