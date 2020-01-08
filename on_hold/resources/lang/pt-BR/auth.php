@@ -12,8 +12,7 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-
-    'failed' => 'As informações de login não foram encontradas.',
+    'failed' => 'Essas credenciais não foram encontradas em nossos registros.',
     'throttle' => 'Muitas tentativas de login. Por favor tente novamente em :seconds segundos.',
 
 ];

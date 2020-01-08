@@ -1,18 +1,17 @@
-# Laravel Deposit
-Esse repositório possui a finalidade de ser um depósito de códigos para projetos em Laravel.
+# Laravel Warehouse
+This repository is a code warehouse for projects in Laravel, but can be used in projects in pure PHP.
 
-## O que já tem
+## Raw materials and other goods
+- [Brazil school levels](warehouse/br_school_levels/).
+- [Cities and federal states of Brazil](warehouse/cities_federal_states_br/).
+- [Dynamic breadcrumbs](warehouse/dynamic_breadcrumbs/).
+- [Entrust models](warehouse/entrust_models/).
 
-- [Municípios e Unidades Federais](doc/MunicipiosUfs.md) - Models, Migrations e Seeder.
-- [Escolaridade](doc/Escolaridade.md) - Models, Migrations e Seeder.
-- [Models já configurados do pacote Entrust](doc/Entrust.md) - Models.
-- [Breadcrumbs dinâmicos](doc/Breadcrumbs.md) - Blade.
+## How to contribute
+In addition to the basic procedures for good practices of contribution in projects:
 
+1. Create a folder with your files in `warehouse/`, **remember to follow the structure of a project in Laravel**.
+1. In the your folder, create a `README.md` with the title, description and some details of the your contribution.
+1. Update the lists in [`README.md`](README.md) and [`warehouse/README.md`](warehouse/README.md).
 
-## Como contribuir
-Além dos procedimentos básicos de boas práticas de contribuição em projetos:
-
-1. Além das mudanças (arquivos inseridos, correções, etc):
-  1. Crie um arquivo Markdown na pasta `doc` e nele liste quais arquivos/métodos estão relacionados a sua mudança;
-  1. Caso julgue necessário, explique um pouco sobre o que está sendo inserido no repositório.
-1. No `README.md` do projeto, insira sua contribuição na lista em **O que já tem** referenciando ao arquivo em `doc`.
+You can pick up as an example the folder [`example/`](example/) or the contributions existing in this repository.
