@@ -1,5 +1,4 @@
-# What already has
-
+# Raw materials and other goods
 - [Brazil school levels](warehouse/br_school_levels/).
 - [Cities and federal states of Brazil](warehouse/cities_federal_states_br/).
 - [Dynamic breadcrumbs](warehouse/dynamic_breadcrumbs/).

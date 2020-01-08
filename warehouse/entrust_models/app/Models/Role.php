@@ -23,7 +23,7 @@ class Role extends EntrustRole
      */
     public function permissions()
     {
-        return $this->belongsToMany(Permission::class,'permission_role', 'role_id', 'permission_id');
+        return $this->belongsToMany(Permission::class, 'permission_role', 'role_id', 'permission_id');
     }
 
     /**
@@ -31,6 +31,6 @@ class Role extends EntrustRole
      */
     public function users()
     {
-        return $this->belongsToMany(User::class,'role_user', 'role_id', 'user_id')->orderBy('name','asc');
+        return $this->belongsToMany(User::class, 'role_user', 'role_id', 'user_id')->orderBy('name', 'asc');
     }
 }
