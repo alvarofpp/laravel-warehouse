@@ -6,6 +6,7 @@ This repository is a code warehouse for projects in Laravel, but can be used in 
 - [Cities and federal states of Brazil](warehouse/cities_federal_states_br/).
 - [Dynamic breadcrumbs](warehouse/dynamic_breadcrumbs/).
 - [Entrust models](warehouse/entrust_models/).
+- [URL Parameters](warehouse/url_parameters/).
 
 ## How to contribute
 In addition to the basic procedures for good practices of contribution in projects:
