@@ -1,3 +1,5 @@
+<img src="img/laravel-warehouse.png" width="150" height="150" />
+
 # Laravel Warehouse
 This repository is a code warehouse for projects in Laravel, but can be used in projects in pure PHP.
 
